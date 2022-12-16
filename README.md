@@ -7,7 +7,7 @@
 ----
 
 <h2> :woman_technologist: O que foi desenvolvido:</h2>
-<img src="images/projeto.png" alt=""> />
+<img src="images/projeto.png" alt="">
 
 ----
 
